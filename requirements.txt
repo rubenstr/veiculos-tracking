@@ -1,0 +1,4 @@
+opencv-python
+ultralytics
+deep_sort_realtime
+pip3 install pyqt5 pyqt5-tools
